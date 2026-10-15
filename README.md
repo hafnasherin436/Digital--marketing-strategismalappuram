@@ -40,7 +40,7 @@ Hi, I'm **Hafna Sherin**! I specialize in creating data-driven digital marketing
 
 ## 📬 Connect With Me
 
-* 🌐 **Website:**(https://hafnasherin.unaux.com/)
+* 🌐 **Website:**https://hafnasherin.unaux.com/
 * 📧 **Email:** hafnasherin591@gmail.com
 
 
