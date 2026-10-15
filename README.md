@@ -6,33 +6,42 @@ Welcome to my repository! I am a **Digital Marketing Strategist based in Malappu
 
 ## 🚀 About Me
 
-Hi, I'm **Hafna Sherin**! I specialize in creating data-driven digital marketing strategies tailored to business goals. Whether it's ranking on Google, running targeted ad campaigns, or building an engaging social media presence, I help brands stand out in today's digital landscape.
+Hi, I'm **Hafna Sherin**! I specialize in creating data-driven digital marketing strategies tailored to business goals. Whether it's ranking on Google, driving organic traffic through authority building, or running targeted ad campaigns, I help brands stand out in today's digital landscape.
 
 ---
 
 ## 💡 Core Services & Expertise
 
-* **Search Engine Optimization (SEO):** On-page, Off-page (Backlink Building), Local SEO, and Technical Audits to boost organic rankings.
-* **Social Media Marketing (SMM):** Content creation, brand engagement, and strategy for Instagram, Facebook, and LinkedIn.
+* **Search Engine Optimization (SEO):** Complete On-page, Off-page, Local SEO, and Technical Audits to boost search rankings.
+* **Backlink Strategy & Link Building:** High-quality backlink creation, guest posting, broken link building, and directory submissions to increase Domain Authority (DA) and rank higher on Google.
+* **Social Media Marketing (SMM):** Engaging content creation, community growth, and strategy for Instagram, Facebook, and LinkedIn.
 * **Search Engine Marketing (SEM / PPC):** High-converting Google Ads and targeted Social Media Ad campaigns.
-* **Content Marketing & Strategy:** Engaging blog posts, web copy, and visual asset planning to attract and retain customers.
-* **Web Design & Optimization:** Creating user-friendly, responsive websites built for lead generation and conversions.
+* **Content Marketing & Strategy:** Search-optimized blog posts, web copy, and visual asset planning to attract and retain customers.
+* **Web Design & Optimization:** Creating user-friendly, responsive websites built for lead generation and conversion.
+
+---
+
+## 🔗 How I Build Powerful Backlinks
+
+1. **High Authority Outreach:** Securing contextual backlinks from niche-relevant websites.
+2. **Guest Blogging:** Publishing high-value content on reputed blogs for natural link acquisition.
+3. **Broken Link Repair:** Finding broken links on relevant sites and offering updated content replacements.
+4. **Local Directory Submissions:** Building strong local citations and listings to dominate local search results.
 
 ---
 
 ## 📈 Why Choose Me?
 
-* **Local Insights:** Deep understanding of the Malappuram and Kerala business markets combined with global digital trends.
-* **Result-Oriented:** Focused on ROI, lead generation, and scalable growth strategies.
-* **Custom Solutions:** Tailored marketing approaches designed specifically for your brand’s unique identity and audience.
+* **Local Insights:** Deep understanding of the Malappuram and Kerala business markets combined with global digital marketing practices.
+* **Result-Oriented:** Focused on ROI, sustainable organic growth, and measurable strategies.
+* **Custom Solutions:** Tailored marketing approaches designed specifically for your brand’s unique goals.
 
 ---
 
 ## 📬 Connect With Me
 
-* 🌐 **Website:** https://hafnasherin.unaux.com/
+* 🌐 **Website:**(https://hafnasherin.unaux.com/)
 * 📧 **Email:** hafnasherin591@gmail.com
 
----
 
 *“Transforming clicks into customers and brands into market leaders.”*
