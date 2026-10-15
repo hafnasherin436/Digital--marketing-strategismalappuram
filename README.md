@@ -15,7 +15,7 @@ Welcome! I am a passionate **Digital Marketing Strategist based in Malappuram**,
 * **Content & Visual Marketing:** Crafted engaging blog content, social media campaign ideas, and eye-catching graphics to showcase fine jewellery collections.
 * **Link Building Strategy:** Developed relevant backlinks to increase domain authority and drive steady referral traffic.
 
-👉 **Visit the Official Site:** [Zivara Jewels]https://zivarajewels.gt.tc/
+👉 **Visit the Official Site:** [Zivara Jewels](https://zivarajewels.gt.tc/)
 ---
 
 ## 🛠️ My Core Digital Marketing Services
